@@ -62,7 +62,7 @@ If you receive a Runtime Error message, this means the wrong model was loaded in
 
 If the program says “no models found” while trying to load a model, it means two things:
 	•	You may have deleted the model folder
-	•	You may have run the program from another folder than the game folder. Ensure that the directory is  A:\bcdefg\hijk\Final_Game_Pygame_AI> 
+	•	You may have run the program from another folder than the game folder. Ensure that the directory is  A:\bcdefg\hijk\Pygame AI> 
 
 Program Features - How it works, Findings, & Limitations
 My program uses Machine Learning, which basically means that the AI learns strategies on its own with a ML algorithm (using Pytorch library).
